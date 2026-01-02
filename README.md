@@ -30,11 +30,11 @@
 
 | Platform | Download |
 |----------|----------|
-| 🍎 **macOS** (Apple Silicon) | [Claw_aarch64.dmg](https://github.com/PixelML/claw/releases/latest/download/Claw_aarch64.dmg) |
-| 🍎 **macOS** (Intel) | [Claw_x64.dmg](https://github.com/PixelML/claw/releases/latest/download/Claw_x64.dmg) |
-| 🪟 **Windows** | [Claw_x64-setup.exe](https://github.com/PixelML/claw/releases/latest/download/Claw_x64-setup.exe) |
-| 🐧 **Linux** (AppImage) | [Claw_amd64.AppImage](https://github.com/PixelML/claw/releases/latest/download/Claw_amd64.AppImage) |
-| 🐧 **Linux** (deb) | [Claw_amd64.deb](https://github.com/PixelML/claw/releases/latest/download/Claw_amd64.deb) |
+| 🍎 **macOS** (Apple Silicon) | [Claw_0.0.1_aarch64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_0.0.1_aarch64.dmg) |
+| 🍎 **macOS** (Intel) | Coming Soon |
+| 🪟 **Windows** | Coming Soon |
+| 🐧 **Linux** (AppImage) | Coming Soon |
+| 🐧 **Linux** (deb) | Coming Soon |
 
 ### CLI Installation
 
