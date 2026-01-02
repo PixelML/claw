@@ -31,7 +31,7 @@
 | Platform | Download |
 |----------|----------|
 | 🍎 **macOS** (Apple Silicon) | [Claw_aarch64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_aarch64.dmg) |
-| 🍎 **macOS** (Intel) | Coming Soon |
+| 🍎 **macOS** (Intel) | [Claw_x64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_x64.dmg) |
 | 🪟 **Windows** | Coming Soon |
 | 🐧 **Linux** (AppImage) | Coming Soon |
 | 🐧 **Linux** (deb) | Coming Soon |
