@@ -1,14 +1,14 @@
 {
   "version": "0.0.1",
   "notes": "Claw v0.0.1 release",
-  "pub_date": "2026-01-02T23:42:06Z",
+  "pub_date": "2026-01-02T23:51:26Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzZrcjhrb2U1bWZQajh6UGxsNUpWVTIwQTBkc044dm85QkJpeU1GTFQ4aUVmam54dHJ2cEZoem5GOWUwUDZ2WTc4VWxFbEV6MVdSNmhHTEFHdnBTdndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzk3NzE5CWZpbGU6Q2xhdy5hcHAudGFyLmd6ClZPaDhDZnl0TzU0RkxvOUJhSVpyZUdWYWJYYzJUR2k2QVV2L0tRNWtNYkYxcDNnbEIvU0xobXIrbW5CaVJyL0pLRGpqaHc4Q3dwZHQ4VngrblZpd0RBPT0K",
       "url": "https://github.com/PixelML/claw/releases/download/v0.0.1/Claw_0.0.1_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZyszTG1QZ2IvMjVtUWJPSmU4RXhYSll1Z0ZicmR4aFY5Wk1uanpYNTVITnhTdnhmV0NuN2ZVN3ZOUHNGN2RrVEVPSW5sZ21KMVhHM3JWb3k0TTJIY3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3Mzk3ODY5CWZpbGU6Q2xhdy5hcHAudGFyLmd6CmNuWmhXeElkYjQ3UzN1ekhEK0oxdXJza0Y1WG1DM3dBdTk0WDB2OGRRZy9PZjJHSkwrT1NodVljSFBWQ1lsSG81ZXNMSStvU2Fra3NDekp1VExwSkFnPT0K",
       "url": "https://github.com/PixelML/claw/releases/download/v0.0.1/Claw_0.0.1_x64.app.tar.gz"
     }
   }
