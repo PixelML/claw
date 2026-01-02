@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "notes": "Claw v0.0.1 release",
+  "pub_date": "2026-01-02T23:25:58Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/PixelML/claw/releases/download/v0.0.1/Claw_0.0.1_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/PixelML/claw/releases/download/v0.0.1/Claw_0.0.1_x64.app.tar.gz"
+    }
+  }
+}
