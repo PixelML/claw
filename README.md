@@ -72,6 +72,8 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 ## 🚀 Download
 
+**Claw Free** — Free forever with core features. Upgrade to **Claw Pro** for advanced features.
+
 | Platform | Download |
 |----------|----------|
 | 🍎 **macOS** (Apple Silicon) | [Claw_aarch64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_aarch64.dmg) |
