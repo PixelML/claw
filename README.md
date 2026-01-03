@@ -14,7 +14,7 @@
   <a href="https://github.com/PixelML/claw/releases/latest">
     <img src="https://img.shields.io/github/v/release/PixelML/claw?style=flat-square" alt="Latest Release">
   </a>
-  <a href="https://discord.gg/agenticflow">
+  <a href="https://qra.ai/discord">
     <img src="https://img.shields.io/discord/1234567890?style=flat-square&logo=discord&label=Discord" alt="Discord">
   </a>
   <a href="https://twitter.com/_clawdev">
@@ -93,7 +93,7 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 - 🌐 [Website](https://claw.so)
 - 📚 [Documentation](https://docs.claw.so)
-- 💬 [Discord Community](https://discord.gg/agenticflow)
+- 💬 [Discord Community](https://qra.ai/discord)
 - 🐦 [Twitter/X](https://twitter.com/_clawdev)
 - ⚡ [AgenticFlow](https://agenticflow.ai)
 
