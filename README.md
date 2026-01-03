@@ -83,29 +83,30 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 ## 📖 Documentation
 
-- [Getting Started Guide](https://docs.clawdev.com/getting-started)
-- [Desktop App Guide](https://docs.clawdev.com/desktop)
-- [API Documentation](https://docs.clawdev.com/api)
+- [Getting Started Guide](https://docs.claw.so/getting-started)
+- [Desktop App Guide](https://docs.claw.so/desktop)
+- [API Documentation](https://docs.claw.so/api)
 
 ---
 
 ## 🔗 Links
 
-- 🌐 [Website](https://clawdev.com)
-- 📚 [Documentation](https://docs.clawdev.com)
+- 🌐 [Website](https://claw.so)
+- 📚 [Documentation](https://docs.claw.so)
 - 💬 [Discord Community](https://discord.gg/agenticflow)
 - 🐦 [Twitter/X](https://twitter.com/_clawdev)
 - ⚡ [AgenticFlow](https://agenticflow.ai)
 
 ---
 
-## 📜 License
+## 📜 Legal
 
 > **Proprietary & Confidential.**
 >
-> Copyright © 2026 PixelML. All Rights Reserved.
->
-> Use of this software is subject to the [End User License Agreement (EULA)](https://clawdev.com/eula).
+> Copyright © 2026 Pixel ML, Inc. All Rights Reserved.
+
+- 📄 [Terms of Service](https://claw.so/legal/terms-of-service)
+- 🔒 [Privacy Policy](https://claw.so/legal/privacy-policy)
 
 ---
 
