@@ -1,0 +1,81 @@
+# Proprietary Software License
+
+Copyright © 2026 Pixel ML, Inc. All Rights Reserved.
+
+## Terms
+
+This software and associated documentation files (the "Software") are the 
+proprietary property of Pixel ML, Inc. ("Company").
+
+**You may NOT:**
+
+1. Copy, modify, merge, publish, distribute, sublicense, and/or sell copies 
+   of the Software without express written permission from the Company.
+
+2. Reverse engineer, decompile, or disassemble the Software.
+
+3. Remove or alter any proprietary notices, labels, or marks on the Software.
+
+4. Use the Software for any purpose other than its intended use as authorized 
+   by your license agreement with the Company.
+
+**You MAY:**
+
+1. Use the Software in accordance with your valid license agreement.
+
+2. Report bugs and contribute fixes under the Company's Contributor Agreement.
+
+## Licensing
+
+Claw is available under the following license models:
+
+- **Desktop App:** One-time purchase (Lifetime License)
+- **Cloud Services (AgenticFlow):** Consumption-based subscription
+
+For licensing inquiries, contact: licensing@pixelml.com
+
+## Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+For Terms of Service: https://claw.so/legal/terms-of-service
+For Privacy Policy: https://claw.so/legal/privacy-policy
+
+---
+
+## Third-Party Acknowledgments
+
+Portions of this software are derived from [opencode](https://github.com/anomalyco/opencode), 
+which is licensed under the MIT License:
+
+```
+MIT License
+
+Copyright (c) 2024 Anomaly
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
