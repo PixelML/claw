@@ -105,7 +105,7 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 > **Proprietary & Confidential.**
 >
-> Copyright © 2026 Pixel ML, Inc. All Rights Reserved.
+> Copyright © 2026 ISHI TECHNOLOGIES PTE. LTD. All Rights Reserved.
 
 - 📄 [Terms of Service](https://claw.so/legal/terms-of-service)
 - 🔒 [Privacy Policy](https://claw.so/legal/privacy-policy)
@@ -113,5 +113,5 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 ---
 
 <p align="center">
-  Made with 🦾 by <a href="https://pixelml.com">PixelML</a>
+  Made with 🦾 by <a href="http://ishilabs.com">Ishi Technologies</a>
 </p>
