@@ -1,21 +1,21 @@
 {
-  "version": "[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6",
-  "notes": "Claw v[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6 release",
-  "pub_date": "2026-01-05T15:27:56Z",
+  "version": "[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7",
+  "notes": "Claw v[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7 release",
+  "pub_date": "2026-01-05T15:45:01Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzlaOUpLRDR0ZjM5U3NuZE5VdjdDVllDbkFrZkZZcjQvQ1lXK3RycyttaXhhWUg2TXFlZDNzeGN5RW1NejhzVVZma29qa0MwTk1YaDdwbEY4ckxraGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI2ODE1CWZpbGU6Q2xhdy5hcHAudGFyLmd6CmRBOVhsY3I0cFhRZFBMMmRGT3VRTW81YmNnY2lDczQ3RlVYb1BNYjJ5RzlPZG1NR0RTanUzMjg4MlBweGxJUVdIKys3Q3VUSjhTZzhtei8zMGNJd0J3PT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6/Claw_[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzNrZVdaS0tZeHNwT2R6S1lvWjVDc0V3YzFCTVhJM1ZGS25NbEtuck9Fa054ZEJobDFaRTJiOUpHV0FWSVZBK1dWL2tRK3k1STdmRGM3UFN2cFNUUVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI3ODQzCWZpbGU6Q2xhdy5hcHAudGFyLmd6CjhVd3VWWGVNZytFM2hKZ3Y0Y0xpQ1ZBdEtPN1RMUUVsMnhKcHowclh5emU0UlZoOWptRlcyTENXN21sYWRpOGxCdkFmeGY5N2dadk1iQU5PSGxBNUJRPT0K",
+      "url": "https://github.com/PixelML/claw/releases/download/v[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7/Claw_[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzh0ZWU2Rlc0Q1BGdkcxQzV4RjBsTmJVbjNkaWVxcWdaRE1SUGlrUTFGSVJtMTU4UTAvUCtaR0d1N2lReUp6WEEzTXFxa09GRm5QWlZhOFZFcUJoMkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI2ODc2CWZpbGU6Q2xhdy5hcHAudGFyLmd6CllDYXBDZTh0V3Iwd0FIWUdWUTFTa2pOVWlrL1RRMHV0eTJNbGRrdFh1SVIxQmVURSt3ZmlUT2pLUXNXREpZUGt5Tzl5R0cxREMvTGVLZXFyNkdYb0RBPT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6/Claw_[0;34m📦 Bumping version: 0.0.5 → 0.0.6[0m
-0.0.6_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzJMN3hRajZvRGcvamdWcStHWFpkQ3dGQnNLSi9OZnRxcy95czdaNVNjSkhpRi9ocldpYXRtTW9mQlo4S0Q0REZqRVBWaUp6WjZvNENLQW81Qm0rdmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NjI3OTAxCWZpbGU6Q2xhdy5hcHAudGFyLmd6CmFVQXhRR0YzTlQ5RGVKV3h1ZWRua3c4MkZwTWg3aElPK2p3NW9tT1N5c1Jmd3E2ZDlkU2l1MnBNcFdaWkV1YnVXMHlFMnk4KzNVUWUvalZDbm5BdURRPT0K",
+      "url": "https://github.com/PixelML/claw/releases/download/v[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7/Claw_[0;34m📦 Bumping version: 0.0.6 → 0.0.7[0m
+0.0.7_x64.app.tar.gz"
     }
   }
 }
