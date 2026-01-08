@@ -12,8 +12,8 @@
       "url": "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzRMTkxOc1UwOU5xcDJPM2V4eHcwTWtJYWdNczNJdHZkWFVkUG9MdzNVUmRFMkJxaHpwcmVRYnVtMEMzZXJTL09uOVpKdHhaK29VMDBxUURzcUxxSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODAxMzc1CWZpbGU6Q2xhd18wLjAuMTNfeDY0LXNldHVwLmV4ZQpyaWhVOWMvWG9NR2dMTTBwMFhXTGFWRlRUTnhKNGxJeXVqaHdXM0loRkF0SCtjQm9ralVMZXhjTkFiWUFqeC9seVB1eVB1Z0liMkN6QzFhV3dyK3dCZz09Cg==",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZ3hXWDdQOWZhdFVBRFJyYW45K1dETXhYZ0F6RW1nV3ZMd0ZLck0vZWg0d3NrWi81YzBqNWNRdzYvcjJtZFd3NWRVZ2NxcEpZbE5ySlo5MmU0K29VQWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQxMzYzNzY4CWZpbGU6Q2xhd18wLjAuMTJfeDY0LXNldHVwLmV4ZQpQeFJaSHJoLzh5VWhqV3BDVFRBWGV4T3orOEpwRXFjRGhpMndxSGtwOVI5OTNiRStKMlk1SmhBenAzUmQ3U2cvUlkySk1TeDFzQXd0STZiNFdvbEdBdz09Cg==",
+      "url": "https://github.com/PixelML/claw/releases/download/v0.0.12/Claw_0.0.12_x64-setup.exe"
     }
   }
 }
