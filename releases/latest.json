@@ -1,19 +1,19 @@
-{
-  "version": "0.0.13",
-  "notes": "Claw v0.0.13 release",
-  "pub_date": "2026-01-07T16:47:19Z",
-  "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzVBdmFkVmgxU3JISlgvKzlTeUpjSzFURU13RTBRbDcyalFJQ1I0dm80SmVnSXhGb2RiejNaMFhLbEFzVDZUdGR4ZnFIUWFBcVVQTUpPNENaZkR0UXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODA0MzIwCWZpbGU6Q2xhdy5hcHAudGFyLmd6CitUelh5ZzZwOTNLakMvcGxJdlAzRmRJNFo2emRzWnMvc1g4S2JXbDJZRlVzT0dJMEJyUmlpYVBXZEVBZzV0aDBSUm03ODlrZjFhVGV6MlB0Yk1CakJRPT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_aarch64.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZ3psQk5RNGtXV3pXVHdzRkRSQWE4RXl4Nko1aUlKcmdFL2RBT2FGbzI4cnB4VldIVG9ZTVNuOFZTNnd1cGM4Z051NDlLSVRRNHk0aTdzUmppMmNSZ3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODA0NDM5CWZpbGU6Q2xhdy5hcHAudGFyLmd6ClpMd3JqdVJ3aWFZcTFsdyt1cVU2T3E1a0Fyby81Sm9yZjFxMFFjYzdpY0FzTXFzN0tCUUd3THE2YUZ6V0J1Qk1hZFBkZVVTUmRrN1RGQWtuVWhOU0RBPT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzRMTkxOc1UwOU5xcDJPM2V4eHcwTWtJYWdNczNJdHZkWFVkUG9MdzNVUmRFMkJxaHpwcmVRYnVtMEMzZXJTL09uOVpKdHhaK29VMDBxUURzcUxxSEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODAxMzc1CWZpbGU6Q2xhd18wLjAuMTNfeDY0LXNldHVwLmV4ZQpyaWhVOWMvWG9NR2dMTTBwMFhXTGFWRlRUTnhKNGxJeXVqaHdXM0loRkF0SCtjQm9ralVMZXhjTkFiWUFqeC9seVB1eVB1Z0liMkN6QzFhV3dyK3dCZz09Cg==",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64-setup.exe"
-    }
-  }
+﻿{
+    "platforms":  {
+                      "darwin-aarch64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzVBdmFkVmgxU3JISlgvKzlTeUpjSzFURU13RTBRbDcyalFJQ1I0dm80SmVnSXhGb2RiejNaMFhLbEFzVDZUdGR4ZnFIUWFBcVVQTUpPNENaZkR0UXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODA0MzIwCWZpbGU6Q2xhdy5hcHAudGFyLmd6CitUelh5ZzZwOTNLakMvcGxJdlAzRmRJNFo2emRzWnMvc1g4S2JXbDJZRlVzT0dJMEJyUmlpYVBXZEVBZzV0aDBSUm03ODlrZjFhVGV6MlB0Yk1CakJRPT0K",
+                                             "url":  "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_aarch64.app.tar.gz"
+                                         },
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzZSa3ROTU05eHdVUko5dGNuS1NkV3B6UytzYklnYjJvczFiTjRFZ0U3dS9BOGlrQ295WTh1a1FuRnVCYUhzdHp5aENLNVE5WEdUdmJOdTk2WVN2eEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODc2NDYyCWZpbGU6Q2xhd18wLjAuMTNfeDY0LXNldHVwLmV4ZQpPdEZOWVBPeG90bDF0RHhVTm5RU2RnZVBySmVrRjc4cXdUZ1FLaXh4Zk1uYnU1K3Yva1hvazFYOVNKTDdpUk83TXdGQ1NocmI1VnhjeExiNXpPQ1VCQT09Cg==",
+                                             "url":  "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64-setup.exe"
+                                         },
+                      "darwin-x86_64":  {
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZ3psQk5RNGtXV3pXVHdzRkRSQWE4RXl4Nko1aUlKcmdFL2RBT2FGbzI4cnB4VldIVG9ZTVNuOFZTNnd1cGM4Z051NDlLSVRRNHk0aTdzUmppMmNSZ3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODA0NDM5CWZpbGU6Q2xhdy5hcHAudGFyLmd6ClpMd3JqdVJ3aWFZcTFsdyt1cVU2T3E1a0Fyby81Sm9yZjFxMFFjYzdpY0FzTXFzN0tCUUd3THE2YUZ6V0J1Qk1hZFBkZVVTUmRrN1RGQWtuVWhOU0RBPT0K",
+                                            "url":  "https://github.com/PixelML/claw/releases/download/v0.0.13/Claw_0.0.13_x64.app.tar.gz"
+                                        }
+                  },
+    "pub_date":  "2026-01-08T12:47:42Z",
+    "version":  "0.0.13",
+    "notes":  "Claw v0.0.13 release"
 }
