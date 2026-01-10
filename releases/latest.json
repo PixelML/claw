@@ -1,15 +1,15 @@
 {
-  "version": "0.0.15",
-  "notes": "Claw v0.0.15 release",
-  "pub_date": "2026-01-09T19:04:27Z",
+  "version": "0.0.16",
+  "notes": "Claw v0.0.16 release",
+  "pub_date": "2026-01-10T07:19:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzRuRkZVcGdvdzNJOWtwenhFZk93bmxIOGR0NG9KZkJ1YlQyRldBbjljYTM0Z0pVYUQvV2hxNE11bzduTlJjdWJHcklpbFZDdmtTbzI5ZWpXYmpMNWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3OTg1MzI4CWZpbGU6Q2xhdy5hcHAudGFyLmd6Ck1DQ1R0bzU0SjJkZlJodTVMYURRUG55TFhLaG5GQlpxaGVkZzMwZFBYV2M2bUpiNGxMTk1NNlhzNWJ1bXVHSnRTcXI3MmsrOThiV0dXZmNMS25KOUJnPT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.15/Claw_0.0.15_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzJYcUJyWUtQQTV2WEFaanJUVjlsdGdmcnI0WjVjK2JWL0R3KzlPU2U3OHVuRXVYQXJLMTQ4QWxTb3pnaVBGYjRYUzFSeVBtT2ZnK0E2NGJOQVVLUlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDI5NDE4CWZpbGU6Q2xhdy5hcHAudGFyLmd6CmFUNmwySk1OODhMS3EzUHllL0ViS3A5WkMwSkwrTjZqaGZQbTVSeVR4aFhFRkY2TEx4NmNsR0VhNXpCVkEwOW41ZkQ1bkNvc3ZIM0lkQ0R6bFU2ZEN3PT0K",
+      "url": "https://github.com/PixelML/claw/releases/download/v0.0.16/Claw_0.0.16_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZzJPU2tsYndiWFJQMlZBTGltZGV3T3FHelBybWErZHJXZFkvUEN5VkYvenpXOXZqOXhFNjNQbnNoUmhSNEhBVEh4TXlTWitvTTdad0EvVHBqSWRaWVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3OTg1NDY3CWZpbGU6Q2xhdy5hcHAudGFyLmd6Ck5EUFRoL1lkbGFvYjQ4ek95RXJWWjF3VXplcDB1dERqY3Z0MVdEOWkzM203b1BVU0t4MGI3b2xXKzhlQWh1SGVOQzVISThqN25rLzRiL1ZHTW95ZkJnPT0K",
-      "url": "https://github.com/PixelML/claw/releases/download/v0.0.15/Claw_0.0.15_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa3dyMG0zS0lpZ3dKNE95V08rb1Nxcys4NW9kTkpnUkIzWXNaMXRHNmVKQXRNMklTR1p4S09KZEYxZHJHVEtRNU1Kdyt6a01aTVRPQ2lVZzVDb09Pbk15ODk1YXpEWGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4MDI5NTU2CWZpbGU6Q2xhdy5hcHAudGFyLmd6CnowblBRUnBsWmhRTFpWcWt5R1BEeDQxZ3FWdnBPM1VuTmV0S2RGSWphNG1TSXBhOGg4NXMrdEdyRytTNkZVYmZEeEN3TFBsZDY2N0RFRGNLTVRCYURnPT0K",
+      "url": "https://github.com/PixelML/claw/releases/download/v0.0.16/Claw_0.0.16_x64.app.tar.gz"
     }
   }
 }
