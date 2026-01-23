@@ -1,36 +1,36 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Claw Logo" width="120" height="120">
+  <img src="assets/logo.png" alt="Ishi Logo" width="120" height="120">
 </p>
 
-<h1 align="center">🏛️ Claw: The Executive OS</h1>
+<h1 align="center">⛩️ Ishi: Your Digital Chief of Staff</h1>
 <p align="center">
-  <strong>The secure, local-first runtime that gives your AI a body.</strong>
+  <strong>The secure, local-first AI runtime that gives your workflows a body.</strong>
 </p>
 <p align="center">
   <em>For Technical Operators who demand Control, Transparency, and Speed.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/PixelML/claw/releases/latest">
-    <img src="https://img.shields.io/github/v/release/PixelML/claw?style=flat-square" alt="Latest Release">
+  <a href="https://github.com/PixelML/ishi/releases/latest">
+    <img src="https://img.shields.io/github/v/release/PixelML/ishi?style=flat-square" alt="Latest Release">
   </a>
   <a href="https://qra.ai/discord">
     <img src="https://img.shields.io/discord/1234567890?style=flat-square&logo=discord&label=Discord" alt="Discord">
   </a>
-  <a href="https://twitter.com/_clawdev">
-    <img src="https://img.shields.io/twitter/follow/_clawdev?style=flat-square&logo=twitter" alt="Twitter">
+  <a href="https://twitter.com/ishihq">
+    <img src="https://img.shields.io/twitter/follow/ishihq?style=flat-square&logo=twitter" alt="Twitter">
   </a>
 </p>
 
 ---
 
-## 🧠 The Manifesto: Why Claw Exists
+## 🧠 The Manifesto: Why Ishi Exists
 
 **We don't build magic. We build Glass Boxes.**
 
 Most AI tools are "Black Boxes"—you type something, and *something* happens. You cross your fingers. You hope. That's not how operators run a business.
 
-**Claw is a "Glass Box."** You see everything. You control everything.
+**Ishi is a "Glass Box."** You see everything. You control everything.
 
 We treat your business operations like code compilation:
 
@@ -60,7 +60,7 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 ---
 
-## ✨ What Operators Use Claw For
+## ✨ What Operators Use Ishi For
 
 - 📁 **"Auto-organize my Downloads folder by invoice date."**
 - 📄 **"Extract data from these local PDFs directly into Notion."**
@@ -72,31 +72,48 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 
 ## 🚀 Download
 
-**Claw Free** — Free forever with core features. Upgrade to **Claw Pro** for advanced features.
+**Ishi Free** — Free forever with core features. Upgrade to **Ishi Pro** for advanced features.
+
+### Stable Release
 
 | Platform | Download |
 |----------|----------|
-| 🍎 **macOS** (Apple Silicon) | [Claw_aarch64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_aarch64.dmg) |
-| 🍎 **macOS** (Intel) | [Claw_x64.dmg](https://github.com/PixelML/claw/raw/main/releases/Claw_x64.dmg) |
-| 🪟 **Windows** | Coming Soon |
-| 🐧 **Linux** | Coming Soon |
+| 🍎 **macOS** (Apple Silicon) | [Download](https://github.com/PixelML/ishi/releases/latest/download/Ishi_aarch64.dmg) |
+| 🍎 **macOS** (Intel) | [Download](https://github.com/PixelML/ishi/releases/latest/download/Ishi_x64.dmg) |
+| 🪟 **Windows** (x64) | [Download](https://github.com/PixelML/ishi/releases/latest/download/Ishi_x64-setup.exe) |
+
+### Beta Release
+
+Get the latest features before they're stable:
+
+| Platform | Download |
+|----------|----------|
+| 🍎 **macOS** (Apple Silicon) | [Download Beta](https://github.com/PixelML/ishi/releases/download/v0.1.3-beta.1/Ishi_0.1.3-beta.1_aarch64.dmg) |
+| 🍎 **macOS** (Intel) | [Download Beta](https://github.com/PixelML/ishi/releases/download/v0.1.3-beta.1/Ishi_0.1.3-beta.1_x64.dmg) |
+| 🪟 **Windows** (x64) | [Download Beta](https://github.com/PixelML/ishi/releases/download/v0.1.3-beta.1/Ishi_0.1.3-beta.1_x64-setup.exe) |
+
+### CLI Install
+
+```bash
+npm i -g @pixelml/ishi
+```
 
 ---
 
 ## 📖 Documentation
 
-- [Getting Started Guide](https://docs.claw.so/getting-started)
-- [Desktop App Guide](https://docs.claw.so/desktop)
-- [API Documentation](https://docs.claw.so/api)
+- [Getting Started Guide](https://docs.ishi.so/getting-started)
+- [Desktop App Guide](https://docs.ishi.so/desktop)
+- [Skills Documentation](https://docs.ishi.so/skills)
 
 ---
 
 ## 🔗 Links
 
-- 🌐 [Website](https://claw.so)
-- 📚 [Documentation](https://docs.claw.so)
+- 🌐 [Website](https://ishi.so)
+- 📚 [Documentation](https://docs.ishi.so)
 - 💬 [Discord Community](https://qra.ai/discord)
-- 🐦 [Twitter/X](https://twitter.com/_clawdev)
+- 🐦 [Twitter/X](https://twitter.com/ishihq)
 - ⚡ [AgenticFlow](https://agenticflow.ai)
 
 ---
@@ -107,11 +124,11 @@ Before any file is renamed, moved, or modified, you see a **Ghost File**—a tra
 >
 > Copyright © 2026 ISHI TECHNOLOGIES PTE. LTD. All Rights Reserved.
 
-- 📄 [Terms of Service](https://claw.so/legal/terms-of-service)
-- 🔒 [Privacy Policy](https://claw.so/legal/privacy-policy)
+- 📄 [Terms of Service](https://ishi.so/legal/terms-of-service)
+- 🔒 [Privacy Policy](https://ishi.so/legal/privacy-policy)
 
 ---
 
 <p align="center">
-  Made with 🦾 by <a href="http://ishilabs.com">Ishi Technologies</a>
+  Made with ⛩️ by <a href="https://ishilabs.com">Ishi Technologies</a>
 </p>
